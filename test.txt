@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Does is all right with your github?
 Show it right now!
+=======
+hello, it's me 
+I'm wondering whether you want to meet me
+>>>>>>> 5ae88557772b226eb2e7792b9a225d164fbd62f6
